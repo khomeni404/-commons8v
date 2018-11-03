@@ -1,0 +1,1 @@
+This is to use in the apps for Vendor
